@@ -26,6 +26,7 @@ for i in range(10):
 ```
 There used to an equation here
 
-This might be how you make columns???
+This might be how you make columns
 |col1|col2|
+|:---:---:|
 |row1|row2|
