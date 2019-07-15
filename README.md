@@ -24,7 +24,7 @@ or numbered list:
 for i in range(10):
     pass
 ```
-$$a^2 + b^2$$
+There used to an equation here
 
 This might be how you make columns???
 |col1|col2|
