@@ -18,7 +18,6 @@ you can have a bulleted list:
 or numbered list:
 1. first
 2. second
-3. third
 
 ```python
 for i in range(10):
