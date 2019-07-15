@@ -26,7 +26,6 @@ for i in range(10):
 ```
 $$a^2 + b^2$$
 
-
-
-
-
+This might be how you make columns???
+|col1|col2|
+|row1|row2|
