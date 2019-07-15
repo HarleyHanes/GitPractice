@@ -16,9 +16,9 @@ you can have a bulleted list:
 -third
 
 or numbered list:
-1. first
 2. second
 3. third
+4. fourth
 
 ```python
 for i in range(10):
